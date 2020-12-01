@@ -1,4 +1,7 @@
-# Lmao im illiterate
+# Vizz
+**Speech to text, then keyword extraction and vizualization, wrapped up in a beautiful UI**
+
+
 ## Getting started
 To create a virtual environment for the Flask server,
 `python3 -m virtualenv venv`
